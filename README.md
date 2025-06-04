@@ -9,48 +9,33 @@ Diabetes is a chronic disease that affects millions of people worldwide. Early p
 Source: PIMA Indian Diabetes Dataset - UCI Repository
 
 Features:
-
 Pregnancies
-
 Glucose
-
 Blood Pressure
-
 Skin Thickness
-
 Insulin
-
 BMI
-
 Diabetes Pedigree Function
-
 Age
 
 Target:
-
 Outcome (0 = No Diabetes, 1 = Diabetes)
 
 🧪 Machine Learning Models Used
 Support Vector Machine (SVM)
-
 K-Nearest Neighbors (KNN)
-
 Decision Tree Classifier
-
 Random Forest Classifier
+Gradient Boosting
+Ada Boosting
 
 🧰 Tools and Libraries
 Python (>=3.8)
-
 NumPy
-
 Pandas
-
-Matplotlib / Seaborn
-
+Matplotlib 
 Scikit-learn
-
-Jupyter Notebook / VSCode
+Google Colab
 
 🚀 How to Run
 1. Open Colab File
@@ -64,3 +49,20 @@ F1-Score
 Confusion Matrix
 ROC-AUC Score (Optional)
 
+📚 Key Learnings
+Data preprocessing and handling missing/zero values
+
+Model training and hyperparameter tuning
+
+Comparative analysis of multiple classification models
+
+Importance of evaluation metrics in healthcare predictions
+
+📎 References
+Scikit-learn Documentation
+
+PIMA Dataset Kaggle
+
+🧑‍💻 Author
+Siddharth Mohanty
+📧 siddharthmohanty23@gmail.com
