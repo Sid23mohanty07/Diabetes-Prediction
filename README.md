@@ -9,44 +9,44 @@ Diabetes is a chronic disease that affects millions of people worldwide. Early p
 Source: PIMA Indian Diabetes Dataset - UCI Repository
 
 Features:
-Pregnancies
-Glucose
-Blood Pressure
-Skin Thickness
-Insulin
-BMI
-Diabetes Pedigree Function
+Pregnancies,
+Glucose,
+Blood Pressure,
+Skin Thickness,
+Insulin,
+BMI,
+Diabetes Pedigree Function,
 Age
 
 Target:
 Outcome (0 = No Diabetes, 1 = Diabetes)
 
 🧪 Machine Learning Models Used
-Support Vector Machine (SVM)
-K-Nearest Neighbors (KNN)
-Decision Tree Classifier
-Random Forest Classifier
-Gradient Boosting
+Support Vector Machine (SVM),
+K-Nearest Neighbors (KNN),
+Decision Tree Classifier,
+Random Forest Classifier,
+Gradient Boosting,
 Ada Boosting
 
 🧰 Tools and Libraries
-Python (>=3.8)
-NumPy
-Pandas
-Matplotlib 
-Scikit-learn
-Google Colab
+Python (>=3.8),
+NumPy,
+Pandas,
+Matplotlib, 
+Scikit-learn,
+Google Colab,
 
 🚀 How to Run
 1. Open Colab File
 2. Run cells
 
 📊 Evaluation Metrics
-Accuracy
-Precision
-Recall
-F1-Score
-Confusion Matrix
+Accuracy,
+Precision,
+Recall,
+F1-Score,
+Confusion Matrix,
 ROC-AUC Score (Optional)
 
 📚 Key Learnings
@@ -64,5 +64,7 @@ Scikit-learn Documentation
 PIMA Dataset Kaggle
 
 🧑‍💻 Author
+
 Siddharth Mohanty
+
 📧 siddharthmohanty23@gmail.com
